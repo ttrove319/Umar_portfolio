@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Umar Rasheed
 
 💻 **Web Developer | MERN Stack Developer**  
 I build modern, responsive websites and full-stack web applications using **MongoDB, Express.js, React, and Node.js**.
@@ -35,4 +35,4 @@ Here are some of my featured projects:
 ## 📌 How to Use My Projects
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+https://github.com/ttrove319/Umar_portfolio.git
